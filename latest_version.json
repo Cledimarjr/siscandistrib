@@ -1,5 +1,6 @@
 {
-    "version": "1.0.5",
-    "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.3/SISCAN.v1.0.5.zip",
-    "checksum": "6139AD78B057468F305D87A2A93EBF64BB65963311B4B29999951304053AC62E"
+    "version": "1.0.4",
+    "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.4/siscandistrib.exe",
+    "checksum": "abcd1234efgh5678ijkl9012mnop3456qrst7890uvwx1234yzab5678cdef9012",
+    "updater_url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.4/updater.exe"
 }
