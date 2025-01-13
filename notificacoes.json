@@ -2,8 +2,8 @@
   "notifications": [
     {
       "id": 1,
-      "title": "Manutenção Programada",
-      "message": "O sistema passará por manutenção no próximo sábado, das 22h às 02h."
+      "title": "O Módulo de compras.gov",
+      "message": "O Módulo de compras.gov, referente a atas está fora do AR, não sendo possivel consultar por ele. Utilize os outros módulos para consulta"
     },
     {
       "id": 2,
