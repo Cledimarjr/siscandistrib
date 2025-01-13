@@ -1,1 +1,14 @@
-notificacoes.json
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Manutenção Programada",
+      "message": "O sistema passará por manutenção no próximo sábado, das 22h às 02h."
+    },
+    {
+      "id": 2,
+      "title": "Nova Funcionalidade",
+      "message": "Confira a nova funcionalidade de exportação de relatórios no menu \"Relatórios\"."
+    }
+  ]
+}
