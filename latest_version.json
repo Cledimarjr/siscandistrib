@@ -1,6 +1,7 @@
 {
-    "version": "1.1.0",
+    "version": "1.0.1",
     "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip",
     "checksum": "2D2299963DCDF7A7AEEEFD7BEE3A3C486F79499266CA6ED12ABD931896EF799C",
-    "updater_url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/updater.exe"
+    "updater_url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/updater.exe",
+    "release_notes": "Novidades desta versão:\n- Adicionada funcionalidade X\n- Corrigido bug Y\n- Otimizado desempenho em Z"
 }
