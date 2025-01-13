@@ -2,13 +2,9 @@
   "notifications": [
     {
       "id": 1,
-      "title": "O Módulo de compras.gov",
-      "message": "O Módulo de compras.gov, referente a atas está fora do AR, não sendo possivel consultar por ele. Utilize os outros módulos para consulta"
+      "title": "Módulo de compras.gov",
+      "message": "O Módulo de pesquisa 'Pesquisar Material no compras.gov', não está retornando consultas devido a indisponibilidade do própio site Compras.gov. Utilize os outros módulos para consulta"
     },
-    {
-      "id": 2,
-      "title": "Nova Funcionalidade",
-      "message": "Confira a nova funcionalidade de exportação de relatórios no menu \"Relatórios\"."
-    }
+    
   ]
 }
