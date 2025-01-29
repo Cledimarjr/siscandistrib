@@ -2,8 +2,8 @@
   "notifications": [
     {
       "id": 1,
-      "title": "Módulo de compras.gov",
-      "message": "O Módulo de pesquisa 'Pesquisar Material no compras.gov', não está retornando consultas devido a indisponibilidade do própio site Compras.gov. Utilize os outros módulos para consulta"
+      "title": "Banco de dados em itens e serviços registrados,
+      "message": "Confira a aba Itens e serviços registrados. já tem mais de 1500 itens registrados, consulte la antes de procurar nas atas."
     }
     
   ]
