@@ -1,7 +1,7 @@
 {
     "version": "1.1.1",
     "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip",
-    "checksum": "58542BD319F13B9511584BEA12AE465BC92AE5D2A4A1A0340A74D2B346FEE45E",
+    "checksum": "700BD040C26942FE31DACBEC46858A1F076EE92A721F3A05019D916A18462257",
     "updater_url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/updater.exe",
     "release_notes": "\n- Atualizado o Banco de Dados até o dia 09/01/2025\n- Foram filtradas somente atas que possuem os links de download válidos\n- Caso haja problemas na atualização automática, a nova versão pode ser baixada diretamente através do link: https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip"
 }
