@@ -1,7 +1,7 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip",
-    "checksum": "700BD040C26942FE31DACBEC46858A1F076EE92A721F3A05019D916A18462257",
+    "checksum": "D294AAD5893B0609E01D53B95D023740170BA53D920E8E7D9E7687F17A1743C6",
     "updater_url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/updater.exe",
-    "release_notes": "\n- Atualizado o Banco de Dados até o dia 09/01/2025\n- Foram filtradas somente atas que possuem os links de download válidos\n- Caso haja problemas na atualização automática, a nova versão pode ser baixada diretamente através do link: https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip"
+    "release_notes": "\n- Agora só é possivel salvar uma ata por item, evitando gerar itens com varios links.\n- Em itens e serviços registrados, agora a ordem que você seleciona os itens será a ordem que será gerado o pdf.\n- Caso haja problemas na atualização automática, a nova versão pode ser baixada diretamente através do link: https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip"
 }
