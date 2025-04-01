@@ -1,7 +1,7 @@
 {
     "version": "1.0.5",
     "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip",
-    "checksum": "D294AAD5893B0609E01D53B95D023740170BA53D920E8E7D9E7687F17A1743C6",
+    "checksum": "A2BF63FFDEF1799A4E5906224B50053D98A9C28BD0E7D023C5290BD39E0A1502",
     "updater_url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/updater.exe",
     "release_notes": "\n- Agora só é possivel salvar uma ata por item, evitando gerar itens com varios links.\n- Em itens e Serviços registrados possui um banco de dados com mais de 1500 itens e serviços, procure lá antes de consultar atas ;)\n- Caso haja problemas na atualização automática, a nova versão pode ser baixada diretamente através do link: https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip"
 }
