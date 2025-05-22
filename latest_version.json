@@ -1,7 +1,7 @@
 {
     "version": "1.4.0",
     "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip",
-    "checksum": "E9A98CBA22C5C790EE2FD3D849590AAB1B2F1BAB3B46094018819B461DCA4861",
+    "checksum": "30C682EDAAD28BB2689260E541218C19F347E58DDD383525183671048AD1E108",
     "updater_url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/updater.exe",
     "release_notes": "\n- Adicionada diversas melhoria\n- Adicionado uma aba com Banco de dados do DER e SIM ;)\n- Caso haja problemas na atualização automática, a nova versão pode ser baixada diretamente através do link: https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip"
 }
