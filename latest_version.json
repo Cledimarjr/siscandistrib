@@ -1,5 +1,5 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.0",
   "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip",
   "checksum": "FBA6DD0E28D146F288B53AE0DD0C9989620F6C24076EBA26ACABE49F87A80DBA",
   "release_notes": "\n- Adicionada diversas melhoria\n- Adicionado uma aba com Banco de dados do DER e SIM ;)\n- Caso haja problemas na atualização automática, a nova versão pode ser baixada diretamente através do link: https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip",
