@@ -7,7 +7,7 @@
 
   "updater_filename": "updater.exe",
   "updater_url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/updater.exe", 
-  "updater_checksum": "44B867B77E868C12ABE9A66B47F17D7AE77631C338108647E461785D51EED869", 
+  "updater_checksum": "D1728193ECFE34C15405C76437617A2AD95668B0E804D9BC6AD82F030B60004B", 
 
   
   "progress_viewer_filename": "progress_viewer.exe",
