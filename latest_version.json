@@ -1,5 +1,5 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.7",
   "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN.zip",
   "checksum": "5AFC859141EB8DF5607DAC315A84B7707B5F91CA9C9FD8120B400A8B8C4310C0",
   "release_notes": "- Adicionada nova aba para juntar e organizar PDFs 📎\n- Banco de dados do DER e SINAPI integrado 📊\n- Melhorias nos relatórios e desempenho geral ⚙️\n- Atualização do banco com +3 milhões de itens\n- Baixe manualmente se necessário: https://tinyurl.com/2tcdkrpz",
