@@ -4,7 +4,7 @@
     {
       "version": 1,
       "description": "Adiciona itens de alvenaria e pastas relacionadas.",
-      "url": "https://raw.githubusercontent.com/Cledimarjr/siscandistrib/main/db_updates/update_001.json"
+      "url": "https://github.com/Cledimarjr/siscandistrib/blob/main/db_updates/update_001.json"
     }
   ]
 }
