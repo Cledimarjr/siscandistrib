@@ -2,8 +2,8 @@
   "notifications": [
     {
       "id": 5,
-      "title": "INSTABILIDADE NO PNCP",
-      "message": "O site do PNCP apresenta instabilidade, o que afeta diretamente ao SISCAN."
+      "title": "⚠️ Ação Necessária para Otimizar seu SISCAN",
+      "message": "Olá! Detectamos uma falha que estava duplicando seus itens salvos e causando travamentos.\n\n✅ Boa notícia: A falha já foi corrigida e o sistema está mais rápido!\n\n👉 Ação importante: Para completar a otimização, por favor, vá até a área de \"Banco de Itens Salvos\" e clique em \"Limpar Duplicados\"."
     }
   ]
 }
