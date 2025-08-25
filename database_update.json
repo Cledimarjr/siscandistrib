@@ -1,8 +1,8 @@
 {
-  "latest_db_version": 8.6,
+  "latest_db_version": 8.7,
   "updates": [
     {
-      "version": 8.6,
+      "version": 8.7,
       "description": "Adiciona itens de alvenaria e pastas relacionadas.",
       "url": "https://raw.githubusercontent.com/Cledimarjr/siscandistrib/main/db_updates/update_003.json"
     }
