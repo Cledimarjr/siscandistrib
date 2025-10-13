@@ -1,7 +1,7 @@
 {
-  "version": "1.3.6",
+  "version": "1.3.7",
   "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN2.0.0.zip",
-  "checksum": "985BFD9308B47BEA29B9BA3D4C7BDBB3C98C33AA2C660C5ADDEBF99D5DA57D4F",
+  "checksum": "DACEEFB33DD28356ECE371A9A9B964AAB2555A405EF232899176A306746C845F",
   "release_notes": "- Consulta em lote 📎\n- Banco de dados do DER e SINAPI integrado 📊\n- Melhorias nos relatórios e desempenho geral ⚙️\n- Atualização do banco com +3 milhões de itens\n- Baixe manualmente se necessário: https://tinyurl.com/2tcdkrpz",
 
 
