@@ -1,7 +1,7 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN_2.0.0.zip",
-  "checksum": "4B426D95F11AD5A7BC08CD56FCFAF91DBC44F49CA691E8EB5685F165E21A8E11",
+  "checksum": "AACC14D4C97EDB8FED19D37C8363379B550DF380D762F7851BBE5C7355E69F7D",
   "release_notes": "- Adicionada análise crítica de dados 🧠\n- Integração com Banco de Notas Fiscais (Gov) e Compras.gov.br 🏛️\n- Consulta em lote 📎\n- Banco de dados do DER e SINAPI integrado 📊\n- Melhorias nos relatórios e desempenho geral ⚙️\n- Atualização do banco com +3 milhões de itens 🚀\n- Baixe manualmente se necessário: https://tinyurl.com/2tcdkrpz",
 
   "updater_filename": "updater.exe",
