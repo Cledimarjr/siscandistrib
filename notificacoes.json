@@ -1,9 +1,10 @@
 {
   "notifications": [
     {
-      "id": 5,
-      "title": "⚠️ Ação Necessária para Otimizar seu SISCAN",
-      "message": "Olá! Detectamos uma falha que estava duplicando seus itens salvos e causando travamentos.\n\n✅ A boa notícia é que a correção já está disponível! Para resolver o problema e deixar seu sistema mais rápido, siga os passos abaixo:\n\n1️⃣ Passo 1: ATUALIZE O SISTEMA. É fundamental instalar a nova versão para ter acesso à correção.\n\n2️⃣ Passo 2: Após atualizar, acesse a área \"Banco de Itens Salvos\" e clique no botão \"Limpar Duplicados\"."
+      "id": 6,
+      "title": "⚠️ Inclusão de novos itens na tabela da GTI",
+      "message": "Foram acrescentados dois itens na tabela da GTI: Caixa de Terminação de Fibra Óptica e Rack Externo. As atas do PNCP indicadas na tabela têm caráter apenas referencial. A escola poderá utilizar outras atas vigentes que contemplem esses itens."
     }
   ]
 }
+
