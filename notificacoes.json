@@ -1,10 +1,9 @@
 {
   "notifications": [
     {
-      "id": 6,
-      "title": "⚠️ Inclusão de novos itens na tabela da GTI",
-      "message": "Foram acrescentados dois itens na tabela da GTI: Caixa de Terminação de Fibra Óptica e Rack Externo. As atas do PNCP indicadas na tabela têm caráter apenas referencial. A escola poderá utilizar outras atas vigentes que contemplem esses itens."
+      "id": 8,
+      "title": "🔄 Atualização da Tabela SIM",
+      "message": "A tabela de composição do SIM foi atualizada. Para refletir as mudanças em sua tabela local, clique no botão 'Atualizar'."
     }
   ]
 }
-
