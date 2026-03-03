@@ -1,7 +1,7 @@
 {
-  "version": "2.1.9",
+  "version": "2.2.0",
   "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/SISCAN_2.0.0.zip",
-  "checksum": "BBA35B949A423FC6D03E99747FC12E1669565D066F7E9F12E7E198DEBBD64083",
+  "checksum": "C75FE47421FEFB4D3A504414B679DB26070F9394836C5BE5B7DB1E65CD354338",
   "release_notes": "- Correção de erro crítico no PNCP: solucionada a falha que permitia a associação incorreta de itens com o mesmo ID, garantindo a precisão das informações exibidas no relatório. 🐛\n- Nova integração SINAPI: sincronização direta com o site da Caixa, permitindo ao usuário atualizar a tabela assim que os dados forem disponibilizados. 🏗️",
   "updater_filename": "updater.exe",
   "updater_url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/updater.exe", 
