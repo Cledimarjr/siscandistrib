@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "url": "https://.../itens_compras.db",
+  "checksum": "sha256 do arquivo",
+  "size_mb": 1400,
+  "release_notes": "Catálogo PNCP atualizado, atas vencidas removidas"
+}
