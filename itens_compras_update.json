@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "url": "https://.../itens_compras.db",
-  "checksum": "sha256 do arquivo",
-  "size_mb": 1400,
+  "url": "https://github.com/Cledimarjr/siscandistrib/releases/download/v1.0.5/itens_compras.db",
+  "checksum": "20B6619817BB598944CB47787DCA960F99ADD2B6920F66A11C6E633445DE5432",
+  "size_mb": 1600,
   "release_notes": "Catálogo PNCP atualizado, atas vencidas removidas"
 }
